@@ -1,0 +1,17 @@
+{
+    "items":[
+       {
+          "users":[
+             {
+                "id":"Int",
+                "name":"String",
+                "picture":"String"
+             }
+          ],
+          "category":{
+             "id":"Int",
+             "name":"String"
+          }
+       }
+    ]
+ }
